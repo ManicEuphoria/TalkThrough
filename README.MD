@@ -26,3 +26,5 @@ This is an experimental project aiming to build a framework which helps establis
 ## 思想的网络
 
 ***要先弄清楚逻辑中除了因果关系还有什么关系***，这些关系意味着网络的边。当然了，说到因果关系，就要顾及大卫·休谟。
+
+push test
