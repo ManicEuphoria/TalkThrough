@@ -10,3 +10,8 @@ This is an experimental project aiming to build a framework which helps establis
 # Concepts
 
 [Concepts](https://github.com/ManicEuphoria/TalkThrough/blob/master/docs/Concepts.md)
+
+# Preparation
+
+[knowledge background](https://github.com/ManicEuphoria/TalkThrough/blob/master/docs/Knowledge_Background.md)
+[tecknology background](https://github.com/ManicEuphoria/TalkThrough/blob/master/docs/Technology_Background.md)
