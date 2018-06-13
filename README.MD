@@ -11,6 +11,11 @@ This is an experimental project aiming to build a framework which helps establis
 
 [Concepts](https://github.com/ManicEuphoria/TalkThrough/blob/master/docs/Concepts.md)
 
+# Fragments
+
+这一小节用来存放暂时未成形的零碎想法。
+[Fragments](https://github.com/ManicEuphoria/TalkThrough/blob/master/docs/Fragments.md)
+
 # Preparation
 
 [knowledge background](https://github.com/ManicEuphoria/TalkThrough/blob/master/docs/Knowledge_Background.md)
