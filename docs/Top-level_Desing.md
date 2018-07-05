@@ -1,3 +1,5 @@
+[test](https://drive.google.com/file/d/1ZvzbM_Dxw6cLWUvz4pDQc4P4UszEQvGR/view?usp=sharing)
+
 # 全票通过
 
 自由在没有让步的情况下，对民主能开出的最大优惠。
