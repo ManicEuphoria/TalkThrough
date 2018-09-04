@@ -1,0 +1,5 @@
+flask=1.0.2
+redis=2.10.6
+SQLAlchemy=1.2.11
+requests=2.19.1
+pymongo=3.7.1
